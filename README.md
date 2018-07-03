@@ -1,2 +1,1 @@
-# auto_test_LeHieuLe
-API Tests with Cucumber jvm
+# API Tests with Cucumber jvm
